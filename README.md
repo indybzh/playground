@@ -7,3 +7,4 @@ the source repository.
 - file 5
 - file 6
 - file 7
+- file 8
