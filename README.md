@@ -7,5 +7,4 @@ feature list
 - file 6
 - file 7
 - file 8
-
-this a conflicting comment
+- file 9
